@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here's a small GitHub bio you can use:<br><br>👋 Hi, I’m @sangamkumarmzn<br>👀 I’m interested in Cybersecurity<br>🌱 I’m currently pursuing a B.Tech in Computer Science and Engineering from IIMT University, Meerut, focusing on Cybersecurity<br>💞️ I’m looking to collaborate on Networking and Cybersecurity projects<br>📫 How to reach me: Sanagmakumarmzn@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love exploring cybersecurity tools like Wireshark and Nmap!
+<br>Here's a small GitHub bio you can use:<br><br>👋 Hi, I’m @sangamkumarmzn<br>👀 I’m interested in Cybersecurity<br>🌱 I’m recently completed my B.Tech in Computer Science and Engineering from IIMT University, Meerut, focusing on Cybersecurity<br>💞️ I’m looking to collaborate on Networking and Cybersecurity projects<br>📫 How to reach me: Sanagmakumarmzn@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love exploring cybersecurity tools like Wireshark and Nmap!
 
 
 ## 🌐 Socials:
